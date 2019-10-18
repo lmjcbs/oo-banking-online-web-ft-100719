@@ -27,7 +27,7 @@ class Transfer
         return "Transaction rejected. Please check your account balance."
       end
     end
-    binding.pry
+    #binding.pry
   end
 
 end
