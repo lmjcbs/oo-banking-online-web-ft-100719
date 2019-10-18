@@ -28,7 +28,6 @@ class Transfer
         #"Transaction rejected. Please check your account balance."
       end
     end
-    #binding.pry
   end
 
 end
