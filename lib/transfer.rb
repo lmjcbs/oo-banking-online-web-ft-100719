@@ -3,6 +3,7 @@ class Transfer
   attr_reader :status, :
 
   def initialize(bank_account, amount)
+    
   end
 
 end
